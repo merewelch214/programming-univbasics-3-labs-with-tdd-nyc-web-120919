@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = atan2
+first_number = 2
